@@ -29,3 +29,5 @@ while yes_no==1:
         print(animal_bd.get_left_list())
         print(animal_bd.get_right_list())
     yes_no=int(input("Хочешь сыграть ещё? (Да-1, Нет-0)"))
+
+    # TODO: Сохранение в файл реализовать. Считывание также.
