@@ -1,6 +1,6 @@
 from binary_tree import *
 
-class ArtificialIntelligenc:
+class ArtificialIntelligence:
    def __init__(self):
        self._animal_bd_=BinaryTree()
        self._animal_bd_.create_root("Кот")
