@@ -1,5 +1,5 @@
 # Ещё больше разделяем интерфейс и код
-from artificial_intelligenc import *
+from artificial_intelligence import *
 
 ai=ArtificialIntelligence()
 exit_game=False;
